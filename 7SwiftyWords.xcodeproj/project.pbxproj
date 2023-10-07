@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD5168032AD157F0003C0EAB /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = DD5168022AD157F0003C0EAB /* level1.txt */; };
 		DD7594002AC9F1B700E6C0D7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD7593FF2AC9F1B700E6C0D7 /* AppDelegate.swift */; };
 		DD7594022AC9F1B700E6C0D7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD7594012AC9F1B700E6C0D7 /* SceneDelegate.swift */; };
 		DD7594042AC9F1B700E6C0D7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD7594032AC9F1B700E6C0D7 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD5168022AD157F0003C0EAB /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
 		DD7593FC2AC9F1B700E6C0D7 /* 7SwiftyWords.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 7SwiftyWords.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD7593FF2AC9F1B700E6C0D7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD7594012AC9F1B700E6C0D7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				DD7594032AC9F1B700E6C0D7 /* ViewController.swift */,
 				DD7594052AC9F1B700E6C0D7 /* Main.storyboard */,
 				DD7594082AC9F1B800E6C0D7 /* Assets.xcassets */,
+				DD5168022AD157F0003C0EAB /* level1.txt */,
 				DD75940A2AC9F1B800E6C0D7 /* LaunchScreen.storyboard */,
 				DD75940D2AC9F1B800E6C0D7 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD75940C2AC9F1B800E6C0D7 /* LaunchScreen.storyboard in Resources */,
+				DD5168032AD157F0003C0EAB /* level1.txt in Resources */,
 				DD7594092AC9F1B800E6C0D7 /* Assets.xcassets in Resources */,
 				DD7594072AC9F1B700E6C0D7 /* Main.storyboard in Resources */,
 			);
